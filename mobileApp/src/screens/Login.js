@@ -17,6 +17,7 @@ const Login = () => {
         const user = userCredentials.user;
         console.info('Logged in with:', user.email);
         navigation.navigate("Main");
+        console.log(userCredentials)
       })
       .catch(error => console.error(error.message))
   }
