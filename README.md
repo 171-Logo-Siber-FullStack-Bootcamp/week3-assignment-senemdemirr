@@ -7,15 +7,12 @@
 
 Firebase ve React Native kullanarak giriş, şifremi unuttum, kayıt ol, ana sayfa ve "https://jsonplaceholder.typicode.com/posts" adresinden aldığım postların olduğu sayfalar oluşturdum.
 
-<<<<<<< HEAD
+
 ![](mobileApp/assets/1.png)
 ![](mobileApp/assets/2.png)
 ![](mobileApp/assets/3.png)
 ![](mobileApp/assets/4.png)
 
-
-=======
->>>>>>> 41f6350af640f97b4190dcf64204e68e7c344709
 -ReactNative
 
 -axios
